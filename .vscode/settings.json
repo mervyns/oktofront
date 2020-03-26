@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    ".idea": true,
+    "build": true,
+    "**/node_modules": true,
+    "**/*.min.js": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "editor.formatOnSave": true,
+  "prettier-eslint.eslintIntegration": false,
+  "prettier-eslint.singleQuote": true,
+  "prettier-eslint.trailingComma": "es5",
+  "prettier-eslint.printWidth": 80
+}
